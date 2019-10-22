@@ -1,0 +1,2 @@
+# lordBOTS
+kişisel site
